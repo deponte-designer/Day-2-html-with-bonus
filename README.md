@@ -53,7 +53,9 @@ SOFTWARE.
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
---/--
+<hr>
+<hr>
+<hr>
 
 # Guide to write a readme.md file!
 
